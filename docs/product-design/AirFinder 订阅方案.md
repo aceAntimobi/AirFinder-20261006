@@ -1,8 +1,7 @@
-# Bluetooth Finder 完整订阅方案
+# Air Finder 完整订阅方案
 
 版本：1.0 · 2026-10-06
 适用范围：当前 W01–W19 原型、iOS 与 Android 订阅链路。
-方案性质：产品与交互交付规格；商品是否已在 App Store Connect / Google Play 生效，仍须以商店后台和客户端实时返回为准。
 
 ## 1. 方案结论
 
